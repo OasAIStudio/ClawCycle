@@ -1,0 +1,21 @@
+{
+  "name": "clawpiggy",
+  "version": "1.0.0",
+  "description": "ClawPiggy skill for monitoring Claude usage and executing Claude CLI tasks",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "clawpiggy-claudecode-usage.md",
+    "clawpiggy-use-claudecode.md"
+  ],
+  "keywords": [
+    "clawpiggy",
+    "openclaw",
+    "claude",
+    "usage-monitoring",
+    "cli-execution",
+    "isolated-workspace"
+  ],
+  "author": "ClawPiggy Team",
+  "license": "MIT"
+}

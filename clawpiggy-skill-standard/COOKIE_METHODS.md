@@ -1,6 +1,6 @@
 # Cookie 提取方法对比
 
-MoltMarket 提供了三种 cookie 提取方法，适用于不同场景。
+ClawPiggy 提供了三种 cookie 提取方法，适用于不同场景。
 
 ## 三种方法对比
 

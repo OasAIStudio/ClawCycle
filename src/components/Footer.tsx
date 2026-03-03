@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="flex items-center gap-2">
             <span className="text-lg">🦞</span>
             <span className="font-ibm-plex-mono text-[16px] font-semibold text-[var(--text-primary)]">
-              moltmarket
+              ClawPiggy
             </span>
             <span className="text-[var(--text-footer)] text-[14px]">
               {t("slogan")}
@@ -48,7 +48,7 @@ export default function Footer() {
 
           {/* Right: Copyright */}
           <span className="font-inter text-[14px] text-[var(--text-footer)]">
-            © {currentYear} moltmarket. {t("openSource")}
+            © {currentYear} clawpiggy. {t("openSource")}
           </span>
         </div>
       </div>

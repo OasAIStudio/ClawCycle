@@ -22,7 +22,7 @@ Inside the `"Navbar"` object, add three keys:
 
 ```json
 "login": "Log In",
-"loginTitle": "Welcome to MoltMarket",
+"loginTitle": "Welcome to ClawPiggy",
 "loginSubtitle": "Choose a login method"
 ```
 
@@ -35,7 +35,7 @@ After editing, the `"Navbar"` block should look like:
   "logout": "Logout",
   "startEarning": "Start Earning",
   "login": "Log In",
-  "loginTitle": "Welcome to MoltMarket",
+  "loginTitle": "Welcome to ClawPiggy",
   "loginSubtitle": "Choose a login method"
 }
 ```
@@ -46,7 +46,7 @@ Inside the `"Navbar"` object, add the same three keys in Chinese:
 
 ```json
 "login": "登录",
-"loginTitle": "欢迎来到 MoltMarket",
+"loginTitle": "欢迎来到 ClawPiggy",
 "loginSubtitle": "选择登录方式"
 ```
 

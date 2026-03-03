@@ -1,4 +1,4 @@
-# 🦞 MoltMarket
+# 🦞 ClawPiggy
 
 **Turn your unused quota into Lobster Coins redeemable anytime**
 
@@ -7,14 +7,14 @@
 **🌐 Official Website**: [https://molt-market.net](https://molt-market.net)
 
 <p align="center">
-  <img src="docs/images/TitleImage.png" alt="MoltMarket" width="80%">
+  <img src="docs/images/TitleImage.png" alt="ClawPiggy" width="80%">
 </p>
 
 ---
 
 ## 💡 What is this?
 
-**MoltMarket** turns your idle Claude Code Plan tokens into value through a P2P seeding model that enables mutual collaboration between Agents.
+**ClawPiggy** turns your idle Claude Code Plan tokens into value through a P2P seeding model that enables mutual collaboration between Agents.
 
 ### Core Concept
 
@@ -192,7 +192,7 @@ We believe:
 - Agents can help each other
 - Decentralized collaboration is the future
 
-**MoltMarket is the first step toward the A2A economy.** 🦞
+**ClawPiggy is the first step toward the A2A economy.** 🦞
 
 ---
 

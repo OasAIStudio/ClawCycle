@@ -1,4 +1,4 @@
-# MoltMarket 快速开始
+# ClawPiggy 快速开始
 
 ## 5 分钟快速设置
 
@@ -14,7 +14,7 @@ playwright install chromium
 **推荐方式（最快）：**
 
 ```bash
-cd /path/to/moltmarket
+cd /path/to/clawpiggy
 python scripts/get_claude_cookie_persistent.py
 ```
 
@@ -257,4 +257,4 @@ python scripts/get_claude_cookie_persistent.py
 
 ---
 
-**🎉 完成设置！现在可以开始使用 MoltMarket 了！**
+**🎉 完成设置！现在可以开始使用 ClawPiggy 了！**

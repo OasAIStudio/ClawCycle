@@ -1,11 +1,11 @@
-# MoltMarket Skill
+# ClawPiggy Skill
 
 An Anthropic-compliant skill for monitoring Claude.ai usage and executing Claude CLI tasks in isolated environments.
 
 ## Quick Links
 
 - **Main Documentation:** [SKILL.md](./SKILL.md)
-- **Packaged Skill:** [moltmarket.skill](./moltmarket.skill) (15KB)
+- **Packaged Skill:** [clawpiggy.skill](./clawpiggy.skill) (15KB)
 
 ## Installation
 
@@ -13,10 +13,10 @@ An Anthropic-compliant skill for monitoring Claude.ai usage and executing Claude
 
 ```bash
 # Copy to Claude skills directory
-cp moltmarket.skill ~/.claude/skills/
+cp clawpiggy.skill ~/.claude/skills/
 
 # Or use directly
-claude --skill moltmarket.skill
+claude --skill clawpiggy.skill
 ```
 
 ### Standalone Usage
@@ -42,7 +42,7 @@ bash scripts/execute_isolated.sh "Your task"
 ## What's Inside
 
 ```
-moltmarket/
+clawpiggy/
 ├── SKILL.md                              # Main skill documentation
 ├── README.md                             # This file
 ├── TESTING.md                            # Testing guide
@@ -57,7 +57,7 @@ moltmarket/
 ├── references/
 │   ├── cookie-extraction.md              # Cookie strategy docs
 │   └── api-endpoints.md                  # Claude.ai API reference
-└── moltmarket.skill                      # Packaged skill (zip)
+└── clawpiggy.skill                      # Packaged skill (zip)
 ```
 
 ## Core Features
@@ -111,14 +111,14 @@ bash scripts/execute_isolated.sh "echo 'Hello, World!' > test.txt"
 
 ## Migration from Old Skill
 
-This skill replaces the old `moltmarket-skill` directory with:
+This skill replaces the old `clawpiggy-skill` directory with:
 - ✅ Executable scripts (no context loading needed)
 - ✅ Anthropic skill-creator compliance
 - ✅ Proper frontmatter and structure
 - ✅ Reference documentation
 - ✅ Packaged .skill file
 
-Old skill location: `~/Personal/hackathon/moltmarket-skill/` (can be deleted)
+Old skill location: `~/Personal/hackathon/clawpiggy-skill/` (can be deleted)
 
 ## License
 

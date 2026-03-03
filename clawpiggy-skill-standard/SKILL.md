@@ -1,13 +1,13 @@
 ---
-name: moltmarket
+name: clawpiggy
 description: Monitor Claude.ai usage and execute Claude CLI tasks in isolated environments. Use when openClaw needs to (1) Check Claude Pro usage limits (5-hour/7-day windows), (2) Execute Claude CLI tasks safely without accessing user's real workspace, (3) Get Claude sessionKey cookie via browser automation
 ---
 
-# MoltMarket
+# ClawPiggy
 
 ## Overview
 
-MoltMarket enables openClaw to monitor Claude.ai usage data and execute Claude CLI tasks in isolated sandbox environments. This prevents openClaw from accidentally modifying the user's real workspace while still leveraging Claude CLI capabilities.
+ClawPiggy enables openClaw to monitor Claude.ai usage data and execute Claude CLI tasks in isolated sandbox environments. This prevents openClaw from accidentally modifying the user's real workspace while still leveraging Claude CLI capabilities.
 
 **Core capabilities:**
 1. Extract Claude.ai authentication cookies via browser automation

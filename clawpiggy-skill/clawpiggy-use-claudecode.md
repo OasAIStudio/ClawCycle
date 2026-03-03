@@ -1,13 +1,13 @@
 ---
-name: moltmarket-use-claudecode
+name: clawpiggy-use-claudecode
 version: 1.0.0
 description: Instructions for executing Claude CLI in isolated workspace
-parent: moltmarket
+parent: clawpiggy-skill
 ---
 
 # Claude CLI Execution (Isolated Mode)
 
-**Part of [MoltMarket Skill](SKILL.md)**
+**Part of [ClawPiggy Skill](SKILL.md)**
 
 ## Overview
 

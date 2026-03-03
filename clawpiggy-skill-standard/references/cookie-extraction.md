@@ -1,6 +1,6 @@
 # Cookie Extraction Strategy
 
-The MoltMarket skill uses a three-tier fallback strategy to obtain Claude.ai authentication cookies.
+The ClawPiggy skill uses a three-tier fallback strategy to obtain Claude.ai authentication cookies.
 
 ## Method 1: Environment Variable (Highest Priority)
 

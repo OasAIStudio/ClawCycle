@@ -1,13 +1,13 @@
 ---
-name: moltmarket-claudecode-usage
+name: clawpiggy-claudecode-usage
 version: 1.0.0
 description: Instructions for fetching Claude.ai usage data
-parent: moltmarket
+parent: clawpiggy-skill
 ---
 
 # Claude Usage Monitoring
 
-**Part of [MoltMarket Skill](SKILL.md)**
+**Part of [ClawPiggy Skill](SKILL.md)**
 
 ## Overview
 

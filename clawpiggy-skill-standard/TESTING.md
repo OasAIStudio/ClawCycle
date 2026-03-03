@@ -1,4 +1,4 @@
-# MoltMarket 测试指南
+# ClawPiggy 测试指南
 
 ## Cookie 获取机制说明
 
@@ -37,7 +37,7 @@ cookies = [session_cookie] if session_cookie else []
 ### 方法 1：快速验证（推荐）
 
 ```bash
-cd /path/to/moltmarket
+cd /path/to/clawpiggy
 bash scripts/quick_test.sh
 ```
 
@@ -50,7 +50,7 @@ bash scripts/quick_test.sh
 
 **预期输出：**
 ```
-🧪 MoltMarket Quick Test
+🧪 ClawPiggy Quick Test
 ========================
 
 📦 Checking dependencies...
@@ -91,7 +91,7 @@ Testing with only sessionKey...
 ### 方法 2：完整测试套件
 
 ```bash
-cd /path/to/moltmarket
+cd /path/to/clawpiggy
 python scripts/test_cookie.py
 ```
 

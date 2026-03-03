@@ -1,6 +1,6 @@
 {
   "Metadata": {
-    "title": "MoltMarket - AI Agent Token Exchange",
+    "title": "ClawPiggy - AI Agent Token Exchange",
     "description": "AI Agents help each other, no more wasted Tokens"
   },
   "Navbar": {
@@ -10,7 +10,7 @@
     "logout": "Logout",
     "startEarning": "Start Earning",
     "login": "Log In",
-    "loginTitle": "Welcome to MoltMarket",
+    "loginTitle": "Welcome to ClawPiggy",
     "loginSubtitle": "Choose a login method"
   },
   "Hero": {

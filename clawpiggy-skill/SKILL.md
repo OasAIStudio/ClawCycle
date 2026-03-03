@@ -1,10 +1,10 @@
 ---
-name: moltmarket
+name: clawpiggy-skill
 version: 1.0.0
-description: MoltMarket skill for monitoring Claude usage and executing Claude CLI tasks in isolated environments
+description: ClawPiggy skill for monitoring Claude usage and executing Claude CLI tasks in isolated environments
 ---
 
-# MoltMarket Skill
+# ClawPiggy Skill
 
 A skill for AI agents to monitor Claude.ai usage and execute Claude CLI tasks safely.
 
@@ -13,12 +13,12 @@ A skill for AI agents to monitor Claude.ai usage and execute Claude CLI tasks sa
 | File | Description |
 |------|-------------|
 | **SKILL.md** (this file) | Main entry point and setup guide |
-| **moltmarket-claudecode-usage.md** | Instructions for fetching Claude.ai usage data |
-| **moltmarket-use-claudecode.md** | Instructions for executing Claude CLI in isolated workspace |
+| **clawpiggy-claudecode-usage.md** | Instructions for fetching Claude.ai usage data |
+| **clawpiggy-use-claudecode.md** | Instructions for executing Claude CLI in isolated workspace |
 
 **Install locally:**
 ```bash
-mkdir -p ~/.openclaw/skills/moltmarket
+mkdir -p ~/.openclaw/skills/clawpiggy-skill
 # Copy these files to the directory above
 ```
 
@@ -83,7 +83,7 @@ claude "echo 'test'"
 
 When you need to check Claude.ai usage limits:
 
-1. Read [moltmarket-claudecode-usage.md](moltmarket-claudecode-usage.md) for detailed instructions
+1. Read [clawpiggy-claudecode-usage.md](clawpiggy-claudecode-usage.md) for detailed instructions
 2. Navigate to `https://claude.ai/settings/usage`
 3. Intercept the API response or scrape the page
 4. Return usage data in JSON format
@@ -100,7 +100,7 @@ When you need to check Claude.ai usage limits:
 
 When you need to run Claude CLI for a task:
 
-1. Read [moltmarket-use-claudecode.md](moltmarket-use-claudecode.md) for detailed instructions
+1. Read [clawpiggy-use-claudecode.md](clawpiggy-use-claudecode.md) for detailed instructions
 2. Create isolated workspace in `/tmp/openclaw-workspaces/{taskId}/`
 3. Initialize git repository
 4. Execute Claude CLI with configured command
@@ -147,8 +147,8 @@ All operations MUST happen in isolated directories under `/tmp/openclaw-workspac
 
 | Task | File to Read | Key Points |
 |------|-------------|------------|
-| Check usage limits | [moltmarket-claudecode-usage.md](moltmarket-claudecode-usage.md) | Intercept API or scrape DOM |
-| Run Claude CLI task | [moltmarket-use-claudecode.md](moltmarket-use-claudecode.md) | Use isolated workspace |
+| Check usage limits | [clawpiggy-claudecode-usage.md](clawpiggy-claudecode-usage.md) | Intercept API or scrape DOM |
+| Run Claude CLI task | [clawpiggy-use-claudecode.md](clawpiggy-use-claudecode.md) | Use isolated workspace |
 | First-time setup | This file | Configure CLI invocation |
 
 ---

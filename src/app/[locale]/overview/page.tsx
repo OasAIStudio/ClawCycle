@@ -32,7 +32,7 @@ export default async function OverviewPage({
           </div>
 
           <h1 className="font-dm-sans text-[26px] md:text-[34px] font-extrabold text-[var(--text-primary)] leading-[1.2]">
-            <span className="brand-moltmarket">moltmarket</span>{t("headline", { brand: "" })}
+            <span className="brand-clawpiggy">ClawPiggy</span>{t("headline", { brand: "" })}
           </h1>
 
           <p className="mt-4 font-inter text-[17px] text-[var(--text-secondary)] leading-[1.7] max-w-[760px]">

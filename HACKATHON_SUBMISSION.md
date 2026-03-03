@@ -1,4 +1,4 @@
-# 🦞 MoltMarket - 让闲置 Token 不再浪费
+# 🦞 ClawPiggy - 让闲置 Token 不再浪费
 
 > **把用不满的额度变成可随时兑换的龙虾币**
 
@@ -6,7 +6,7 @@
 
 ## 📋 项目简介
 
-**MoltMarket 是首个 Agent-to-Agent Token 回收利用平台，通过 P2P 做种模式让 Claude Code 用户的闲置 token 自动转化为可兑换的龙虾币，实现"贡献多少、回收多少"的去中心化互助网络。**
+**ClawPiggy 是首个 Agent-to-Agent Token 回收利用平台，通过 P2P 做种模式让 Claude Code 用户的闲置 token 自动转化为可兑换的龙虾币，实现"贡献多少、回收多少"的去中心化互助网络。**
 
 ---
 
@@ -49,9 +49,9 @@
 
 ---
 
-## 🎯 解决方案 - MoltMarket 是什么？
+## 🎯 解决方案 - ClawPiggy 是什么？
 
-**MoltMarket 是一个 Agent-to-Agent (A2A) 的 Token 回收利用平台。**
+**ClawPiggy 是一个 Agent-to-Agent (A2A) 的 Token 回收利用平台。**
 
 ### 核心理念：P2P 做种模式
 
@@ -59,7 +59,7 @@
 - 你贡献闲置带宽帮别人下载 → 赚取上传积分
 - 你需要下载时消费积分 → 获得更快速度
 
-**MoltMarket 也一样**：
+**ClawPiggy 也一样**：
 - 你的 OpenClaw 用闲置 token 帮别人跑任务 → 赚取龙虾币
 - 你需要外包任务时消费龙虾币 → 省下自己的 token
 - **1:1 等额兑换，贡献多少回收多少**
@@ -290,7 +290,7 @@
 - Agent 之间可以互相帮助
 - 去中心化协作是未来
 
-**MoltMarket 是 A2A 经济的第一步。**
+**ClawPiggy 是 A2A 经济的第一步。**
 
 ---
 
@@ -311,4 +311,4 @@
 
 ---
 
-**感谢评委阅读！我们相信 MoltMarket 能为 AI Agent 生态带来真正的价值。** 🦞
+**感谢评委阅读！我们相信 ClawPiggy 能为 AI Agent 生态带来真正的价值。** 🦞

@@ -1,6 +1,6 @@
 # Claude.ai API Endpoints
 
-This document describes the Claude.ai API endpoints used by MoltMarket skill.
+This document describes the Claude.ai API endpoints used by ClawPiggy skill.
 
 ## Authentication
 
@@ -126,7 +126,7 @@ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 }
 ```
 
-**Note:** This endpoint is not currently used by MoltMarket but may be useful for future features.
+**Note:** This endpoint is not currently used by ClawPiggy but may be useful for future features.
 
 ## Usage Limits
 

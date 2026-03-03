@@ -31,7 +31,7 @@ The "Log In" button uses the brand accent color (orange).
 
 ```
 ┌─────────────────────────────────────┐
-│  Welcome to MoltMarket          [×] │
+│  Welcome to ClawPiggy          [×] │
 │                                     │
 │  Choose a login method              │
 │                                     │

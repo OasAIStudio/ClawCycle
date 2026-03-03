@@ -39,7 +39,7 @@ export default function Navbar({
         </div>
         <div className="flex flex-col">
           <span className="font-ibm-plex-mono text-[18px] font-bold text-[var(--text-primary)] leading-tight">
-            moltmarket
+            ClawPiggy
           </span>
           <span className="text-[12px] text-[var(--text-muted)] leading-tight hidden sm:block">
             {t("tokenMarket")}

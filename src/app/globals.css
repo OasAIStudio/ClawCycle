@@ -58,8 +58,8 @@
   animation: stat-scroll-up 0.35s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-/* Brand text effect: "moltmarket" */
-.brand-moltmarket {
+/* Brand text effect: "clawpiggy" */
+.brand-clawpiggy {
   display: inline-block;
   letter-spacing: -0.01em;
   background-image: linear-gradient(
@@ -83,7 +83,7 @@
   will-change: background-position;
 }
 
-.brand-moltmarket-animated {
+.brand-clawpiggy-animated {
   animation: brand-sheen 7.5s cubic-bezier(0.22, 1, 0.36, 1) infinite;
   background-position: 0% 50%;
 }
@@ -94,7 +94,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .brand-moltmarket-animated {
+  .brand-clawpiggy-animated {
     animation: none;
   }
 }
