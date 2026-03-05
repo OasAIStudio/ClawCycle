@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200" role="img" aria-labelledby="title desc">
+  <title id="title">ClawPiggy Logo</title>
+  <desc id="desc">Retro pixel logo for ClawPiggy with icon and wordmark</desc>
+  <defs>
+    <style>
+      .px { shape-rendering: crispEdges; }
+      .word { font: 700 54px 'Press Start 2P', 'Courier New', monospace; letter-spacing: 1px; fill: #fff0e3; }
+      .sub { font: 700 10px 'Press Start 2P', 'Courier New', monospace; letter-spacing: 0.2px; fill: #e8c9b0; }
+    </style>
+  </defs>
+
+  <rect class="px" x="0" y="0" width="720" height="200" fill="#2d1810"/>
+  <rect class="px" x="0" y="0" width="720" height="18" fill="#c4602a"/>
+  <rect class="px" x="0" y="182" width="720" height="18" fill="#c4602a"/>
+
+  <text x="40" y="98" class="word">CLAWPIGGY</text>
+  <text x="42" y="132" class="sub">Turn unused tokens into PiggyCoin. Spend PiggyCoin when you need help.</text>
+
+  <!-- right icon: aligned with latest favicon language -->
+  <g class="px" transform="translate(620 68)">
+    <rect x="0" y="0" width="64" height="64" fill="#2d1810"/>
+    <rect x="14" y="14" width="20" height="12" fill="#e07a3a"/>
+    <rect x="10" y="16" width="4" height="4" fill="#e07a3a"/>
+    <rect x="8" y="12" width="2" height="6" fill="#e07a3a"/>
+    <rect x="34" y="16" width="4" height="4" fill="#e07a3a"/>
+    <rect x="38" y="12" width="2" height="6" fill="#e07a3a"/>
+    <rect x="18" y="10" width="3" height="3" fill="#e07a3a"/>
+    <rect x="27" y="10" width="3" height="3" fill="#e07a3a"/>
+    <rect x="16" y="26" width="3" height="3" fill="#e07a3a"/>
+    <rect x="20" y="26" width="3" height="3" fill="#e07a3a"/>
+    <rect x="26" y="26" width="3" height="3" fill="#e07a3a"/>
+    <rect x="30" y="26" width="3" height="3" fill="#e07a3a"/>
+    <rect x="20" y="18" width="2" height="2" fill="#2d1810"/>
+    <rect x="26" y="18" width="2" height="2" fill="#2d1810"/>
+    <rect x="22" y="22" width="6" height="2" fill="#fff0e3"/>
+    <rect x="44" y="41" width="14" height="10" fill="#f7a650"/>
+    <rect x="42" y="39" width="4" height="4" fill="#f7a650"/>
+    <rect x="56" y="39" width="4" height="4" fill="#f7a650"/>
+    <rect x="58" y="47" width="2" height="2" fill="#f2e8e0"/>
+    <rect x="48" y="47" width="6" height="4" fill="#fff0e3"/>
+    <rect x="49" y="48" width="1" height="1" fill="#c4602a"/>
+    <rect x="52" y="48" width="1" height="1" fill="#c4602a"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="ClawPiggy favicon">
+  <defs>
+    <style>
+      .px { shape-rendering: crispEdges; }
+    </style>
+  </defs>
+  <rect class="px" x="0" y="0" width="64" height="64" fill="#2d1810"/>
+
+  <!-- single pixel piggy bank -->
+  <g class="px" transform="translate(7 18)">
+    <rect x="10" y="6" width="26" height="16" fill="#f7a650"/>
+    <rect x="36" y="10" width="6" height="8" fill="#f7a650"/>
+    <rect x="8" y="8" width="4" height="6" fill="#f7a650"/>
+    <rect x="14" y="2" width="6" height="4" fill="#f7a650"/>
+    <rect x="28" y="2" width="6" height="4" fill="#f7a650"/>
+    <rect x="14" y="22" width="4" height="4" fill="#f7a650"/>
+    <rect x="28" y="22" width="4" height="4" fill="#f7a650"/>
+    <rect x="20" y="9" width="6" height="2" fill="#fff0e3"/>
+    <rect x="34" y="13" width="2" height="2" fill="#2d1810"/>
+    <rect x="18" y="12" width="2" height="2" fill="#c4602a"/>
+    <rect x="24" y="12" width="2" height="2" fill="#c4602a"/>
+  </g>
+</svg>
